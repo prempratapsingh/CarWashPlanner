@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "streamline-icon-time-clock-circle-1@20x20.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "streamline-icon-time-clock-circle-1@40x40.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "streamline-icon-time-clock-circle-1@60x60.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
