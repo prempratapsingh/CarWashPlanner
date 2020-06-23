@@ -1,4 +1,7 @@
 # CarWashPlanner
+Here is a quick demo of the test app,
+
+![alt text](https://user-images.githubusercontent.com/27926337/85449185-1983d680-b5b5-11ea-8606-43c05b45f21d.gif)
 
 This test iOS application is developed using the concepts of, 
 1. MVVM Design Pattern
