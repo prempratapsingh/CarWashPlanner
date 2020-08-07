@@ -11,7 +11,8 @@ This test iOS application is developed using the concepts of,
 The implemented solution has been designed and implemented with system design features such as,
 1. Single responsibility principal
 2. Dependency injection based entities creation and application workflow
-3. Loosely coupled entities and application workflows 4. Easy to extend entities and workflows
+3. Loosely coupled entities and application workflows 
+4. Easy to extend entities and workflows
 5. Reusable entities
 6. Testability
 
