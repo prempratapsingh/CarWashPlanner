@@ -26,3 +26,7 @@ These are the unit test cases,
 4. FileDataServiceTests
 5. CalendarServiceTests
 6. DistanceCalculatorTests
+
+Here is how the unit tests look,
+
+<img width="500" alt="Screenshot 2021-01-23 at 7 03 39 AM" src="https://user-images.githubusercontent.com/27926337/105564676-436aca80-5d49-11eb-9c1a-011ec52f66bf.png">
