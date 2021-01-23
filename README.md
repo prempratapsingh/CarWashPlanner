@@ -1,8 +1,9 @@
-# CarWashPlanner
+## Quick Demo
 Here is a quick demo of the test app,
 
 ![alt text](https://user-images.githubusercontent.com/27926337/85449185-1983d680-b5b5-11ea-8606-43c05b45f21d.gif)
 
+## Technical Overview
 This test iOS application is developed using the concepts of, 
 1. MVVM Design Pattern
 2. Object Oriented Programming
@@ -16,6 +17,7 @@ The implemented solution has been designed and implemented with system design fe
 5. Reusable entities
 6. Testability
 
+## Testing
 The core entities (View models, services, models, etc) and workflows have been tested with Unit Tests using the TDD approach. 
 These are the unit test cases,
 1. CleanerListViewModelTests 
